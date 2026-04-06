@@ -4,7 +4,7 @@ from dataclasses import dataclass
 @dataclass
 class Config:
     # 训练相关的超参数
-    n_epochs: int = 5              # 训练轮数
+    n_epochs: int = 3              # 训练轮数
     batch_size_train: int = 64     # 训练批大小
     batch_size_test: int = 1000    # 测试批大小
     learning_rate: float = 0.01    # 学习率
