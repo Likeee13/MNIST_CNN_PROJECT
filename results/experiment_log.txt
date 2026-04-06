@@ -2,3 +2,5 @@ Epochs: 3 | LR: 0.01 | Kernel: 5 ==> Test Loss: 0.1019, Accuracy: 96.82%
 Epochs: 1 | LR: 0.01 | Kernel: 5 ==> Test Loss: 0.2007, Accuracy: 94.04%
 Epochs: 10 | LR: 0.01 | Kernel: 3 ==> Test Loss: 0.0597, Accuracy: 98.06%
 Epochs: 5 | LR: 0.01 | Kernel: 3 ==> Test Loss: 0.0854, Accuracy: 97.46%, Total_trainging_time:122.6641
+Epochs: 5 | LR: 0.1 | Kernel: 3 ==> Test Loss: 0.0608, Accuracy: 98.02%, Total_trainging_time:87.8650
+Epochs: 3 | LR: 1 | Kernel: 3 ==> Test Loss: 2.3096, Accuracy: 11.35%, Total_trainging_time:43.9704
